@@ -1,4 +1,4 @@
-# Election-Key-Terms
+# Election Key Terms
 Heatmap visualizations of key terms in the Colorado, Virginia, and Florida midterm elections. Results from Google News
 
 I began working on this project at BlueLabs where I am an intern. We wanted to begin by answering the following question: What were the key issues in some of the important races in the past midterm election (2014)>
